@@ -1,0 +1,6 @@
+[submodule "CSLab2/ThirdParty/imgui"]
+	path = CSLab2/ThirdParty/imgui
+	url = https://github.com/SkaLe3/imgui
+[submodule "CSLab2/ThirdParty/GLFW"]
+	path = CSLab2/ThirdParty/GLFW
+	url = https://github.com/SkaLe3/glfw
